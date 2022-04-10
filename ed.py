@@ -6,6 +6,7 @@ def edwin():
 
     root1=Toplevel()
     root1.geometry("360x640")
+    root1.title("EDLEXIC")
 
     imglbl1=Label(root1)
     imglbl1.place(x=0, y=0, relwidth=1, relheight=1)

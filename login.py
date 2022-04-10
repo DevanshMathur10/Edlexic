@@ -6,6 +6,7 @@ from ed import edwin
 
 root=Tk()
 root.geometry("360x640")
+root.title("LOGIN")
 imglbl=Label(root)
 imglbl.place(x=0, y=0, relwidth=1, relheight=1)
 player = tkvideo("C:/Users/DELL/Documents/VS/HACKATHONS/EDLEXIC/backvid.mp4", imglbl,loop = 1, size = (360,640))

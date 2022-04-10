@@ -5,6 +5,7 @@ from PIL import Image,ImageTk
 def fruits():
     root2=Toplevel()
     root2.configure(bg='#e2cffc')
+    root2.title("FRUITS")
 
     myimg1=Image.open("C:/Users/DELL/Documents/VS/HACKATHONS/EDLEXIC/fruitimages/apple.jpg")
     myimg2=Image.open("C:/Users/DELL/Documents/VS/HACKATHONS/EDLEXIC/fruitimages/bananas.jpg")
@@ -74,5 +75,5 @@ def fruits():
     fb.grid(row=7,column=1,padx=10,pady=5,ipadx=35)
 
     root2.mainloop()
-    
-fruits()
+
+#fruits()
