@@ -46,5 +46,4 @@ def edwin():
     fb.grid(row=1,column=1,padx=10,pady=5,ipadx=33,ipady=30)
 
     root1.mainloop()
-
 #edwin()

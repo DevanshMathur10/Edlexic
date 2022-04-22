@@ -75,5 +75,4 @@ def fruits():
     fb.grid(row=7,column=1,padx=10,pady=5,ipadx=35)
 
     root2.mainloop()
-
 #fruits()
