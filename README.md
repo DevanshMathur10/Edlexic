@@ -1,4 +1,4 @@
-# Edlexic
+# [Edlexic](https://devpost.com/software/edlexic)
 Smart education to help dyslexic students.
 We created an app which can be beneficial to all the dyslexic students and has the following functions:
 1. Phonetic Dictionary with Text-to-Speech which helps the student for quick learning.
